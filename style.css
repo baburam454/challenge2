@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card{
+    width: 300px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.card-image img{
+    height: 300px;
+    border-radius: 20px;
+}
+
+body{
+    background-color:hsl(212, 45%, 89%);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.card-content{
+    text-align: center;
+    padding: 10px;
+}
